@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-template",
+  "version": "1.0.0",
+  "description": "vuepress-template",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "release": "/bin/bash scripts/release.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhangPingFan/vuepress-template.git"
+  },
+  "author": "ZhangPingFan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZhangPingFan/vuepress-template/issues"
+  },
+  "homepage": "https://github.com/ZhangPingFan/vuepress-template#readme"
+}
