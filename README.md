@@ -5,7 +5,7 @@
 npm install -g vuepress
 ```
 
-## Build Setup
+## 开始
 ``` bash
 # 开始写作
 npm run dev
