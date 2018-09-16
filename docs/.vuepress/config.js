@@ -26,7 +26,7 @@ module.exports = {
   ],
   serviceWorker: true,
   themeConfig: {
-    repo: 'https://github.com/ZhangPingFan/vuepress',
+    repo: 'https://github.com/ZhangPingFan/vuepress-template',
     editLinks: false,
     docsDir: 'docs',
     search: true,
@@ -100,6 +100,7 @@ function genSidebarConfig (title) {
       collapsable: false,
       children: [
         '',
+        'vuepress'
       ]
     }
   ]
