@@ -12,6 +12,6 @@ git init
 git add -A
 git commit -m 'update'
 
-# 如果发布到 https://<USERNAME>.github.io 需要将ZhangPingFan改成自己的id
-git push -f git@github.com:ZhangPingFan/ZhangPingFan.github.io.git master
+# 如果发布到 https://<USERNAME>.github.io 需要将<USERNAME>改成自己的id
+# git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 cd -
